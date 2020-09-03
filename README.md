@@ -38,7 +38,7 @@ Judges will consider followings during final presentation:
 
 ## Mentors
 
-![Lili](./Images/lili1.jpg)
+<dt style="width: 120px;"><img src="./Images/lili.jpg" alt="Jeremy Clements" width="85" height="100" /></dt>
 
 Lili is an ECL Developer, she is an expert mater in Machine Learning and Data Analytics.
 
