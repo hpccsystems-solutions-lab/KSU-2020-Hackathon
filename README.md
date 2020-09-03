@@ -16,13 +16,15 @@ Flight data is from our sister company Cirium. For more information please visit
 ## Tools
 
 Data is already cleaned and loaded into our cluster, it's ready for you just to create a login and start working/coding in our [CloudIDE](https://ide.hpccsystems.com/)
-You can find a easy to use user guide under Help in CloudIDE.
+You can find a easy to use user guide under Help in CloudIDE, also can be found in this repository.
 
-Need a visualization tool to create charts and dashboards, RealBI is ready to serve you. It's connected to the same cluster, so no pain of moving your data, just make sure your results are saved in files. You can use RealBI built-in ECL script to aggregate data for visualization on the fly. Just like CloudIDE user-guide is available.
+Your workshop is setup and ready for you to start [coding]()
 
 Need sample code to practice, please use [LearnECL](https://ide.hpccsystems.com/workspaces/share/291d17d9-e5cb-4fac-83c2-ac5997c28a31) workspace in CloudIDE.
 
 If you need more information on jobs you are running please use [ECL Watch Page]()
+
+Need a visualization tool to create charts and dashboards, [RealBI](https://xxx.xxxxx/) is ready to serve you. It's connected to the same cluster, so no pain of moving your data, just make sure your results are saved in files. You can use RealBI built-in ECL script to aggregate data for visualization on the fly. Just like CloudIDE user-guide is available.
 
 For ease of use, most of materials can be found in this repository as well.
 
