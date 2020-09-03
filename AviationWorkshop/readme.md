@@ -1,6 +1,4 @@
-/\*
-
-Notes:
+**Notes**
 
 - flightRecMod created the flights layout.
 - getFlightsDS: Creates two separate datasets for 2019 and 2020.

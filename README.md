@@ -48,7 +48,7 @@ Lili Xu is an ECL Developer, she is an expert mater in Machine Learning and Data
 
 Chris Human is our RealBI Developer, new to ECL world, but an expert matter on visualization and dashboards.
 
-<dt style="width: 120px;"><img src="./Images/jeremy.jpg" alt="Jeremy Clements" width="100" /></dt>
+<dt style="width: 120px;"><img src="./Images/jj.jpg" alt="Jeremy Clements" width="100" /></dt>
 Jeremy Clements has been developing CloudIDE, good with ECL and expert on application development.
 
 ![Bahar Fardanian](./Images/bahar.jpg)
