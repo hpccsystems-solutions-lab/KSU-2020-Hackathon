@@ -40,17 +40,44 @@ Judges will consider followings during final presentation:
 
 ## Mentors
 
-<dt style="width: 120px;"><img src="./Images/lili.jpg" alt="Lili Xu" width="85" height="100" /></dt>
+<style>
+  .mentors div {
+    margin-bottom: 20px;
+  }
+  .mentors div:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .mentors img {
+    float: left;
+  }
+  .mentors p {
+    margin-left: 120px;
+  }
+</style>
 
-Lili Xu is an ECL Developer, she is an expert mater in Machine Learning and Data Analytics.
+<div class="mentors">
 
-<dt style="width: 120px;"><img src="./Images/chris.jpg" alt="Chris Human" width="100" /></dt>
+<div>
+<img src="./Images/lili.jpg" alt="Lili Xu" width="85" height="100" />
+<p>Lili Xu is an ECL Developer, she is an expert mater in Machine Learning and Data Analytics.</p>
+</div>
 
-Chris Human is our RealBI Developer, new to ECL world, but an expert matter on visualization and dashboards.
+<div>
+<img src="./Images/chris.jpg" alt="Chris Human" width="100" />
+<p>Chris Human is our RealBI Developer, new to ECL world, but an expert matter on visualization and dashboards.</p>
+</div>
 
-<dt style="width: 120px;"><img src="./Images/jj.jpg" alt="Jeremy Clements" width="100" /></dt>
-Jeremy Clements has been developing CloudIDE, good with ECL and expert on application development.
+<div>
+<img src="./Images/jj.jpg" alt="Jeremy Clements" width="100" />
+<p>Jeremy Clements has been developing CloudIDE, good with ECL and expert on application development.</p>
+</div>
 
-![Bahar Fardanian](./Images/bahar.jpg)
+<div>
+<img src="./Images/bahar.jpg" alt="Bahar Fardanian" width="100" />
+<p>Bahar Fardanian, our technology evangelist, ECL developer and a mentor. She is RealBI and CloudIDE product owner.</p>
+</div>
 
-Bahar Fardanian, our technology evangelist, ECL developer and a mentor. She is RealBI and CloudIDE product owner.
+<div></div>
+</div>
