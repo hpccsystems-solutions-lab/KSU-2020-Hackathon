@@ -10,7 +10,7 @@ For this challenge you are presented with two pre-scheduled flight datasets. 201
 
 Each flight dataset contains a year of schedules from the month it's established. For example May2020 file will have all schedule flights till May 2021.
 
-Flight data is from our sister company Cirium. For more information please visit
+Flight data is from our sister company [Cirium](https://m.youtube.com/watch?sf236787699=1&v=_tR8VXlzWvo). For more information please visit
 [Cirium](https://www.cirium.com/).
 
 ## Tools
@@ -39,23 +39,6 @@ Judges will consider followings during final presentation:
 - Demo of work via a PowerPoint presentation or live demo
 
 ## Mentors
-
-<style>
-  .mentors div {
-    margin-bottom: 20px;
-  }
-  .mentors div:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-  .mentors img {
-    float: left;
-  }
-  .mentors p {
-    margin-left: 120px;
-  }
-</style>
 
 <div class="mentors">
 
