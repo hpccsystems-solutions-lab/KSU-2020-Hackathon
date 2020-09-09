@@ -10,21 +10,23 @@ For this challenge you are presented with two pre-scheduled flight datasets. 201
 
 Each flight dataset contains a year of schedules from the month it's established. For example May2020 file will have all schedule flights till May 2021.
 
-Flight data is from our sister company [Cirium](https://m.youtube.com/watch?sf236787699=1&v=_tR8VXlzWvo). For more information please visit
+Keep in mind that DiscontinueDate can go over a year, based on how long that flight should operate. For example, a scheduled flight can operate from (EffectiveDate) 06/01/2020 t0 07/23/2023 (DiscontinueDate).
+
+[Cirium](https://m.youtube.com/watch?sf236787699=1&v=_tR8VXlzWvo)our sister company has provided the data. For more information please visit
 [Cirium](https://www.cirium.com/).
 
 ## Tools
 
 Data is already cleaned and loaded into our cluster, it's ready for you just to create a login and start working/coding in our [CloudIDE](https://ide.hpccsystems.com/)
-You can find a easy to use user guide under Help in CloudIDE, also can be found in this repository.
+User guide is in Help tab of CloudIDE, also can be found in this repository.
 
-Your workshop is setup and ready for you to start [coding]().
+Your workshop is setup and ready for you to start [coding](https://ide.hpccsystems.com/workspaces/share/9feee85a-3ceb-4609-a8aa-99959a8a59bc).
 
 Need sample code to practice, please use [LearnECL](https://ide.hpccsystems.com/workspaces/share/291d17d9-e5cb-4fac-83c2-ac5997c28a31) workspace in CloudIDE.
 
-If you need more information on jobs you are running please use [ECL Watch Page]()
+If you need more information on jobs you are running please use [ECL Watch Page](http://40.76.26.67:8010)
 
-Need a visualization tool to create charts and dashboards, [RealBI]() is ready to serve you. It's connected to the same cluster, so no pain of moving your data, just make sure your results are saved in files. You can use RealBI built-in ECL script to aggregate data for visualization on the fly. User guide is available in the application and in this repository.
+Need a visualization tool to create charts and dashboards, [RealBI](http://realbi-qa.eastus.cloudapp.azure.com/) is ready to serve you. It's connected to the same cluster, so no pain of moving your data, just make sure your results are saved in files. You can use RealBI built-in ECL script to aggregate data for visualization on the fly. User guide is available in the application and in this repository.
 
 For ease of use, most of materials can be found in this repository as well.
 

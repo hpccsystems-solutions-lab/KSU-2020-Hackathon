@@ -52,7 +52,7 @@ aveDistanceByCarrier := TABLE
     );
 
 //View the first 100
-OUTPUT(aveDistanceByCarrier, NAMED('aveDistanceByCarrier'));
+OUTPUT(CHOOSEN(aveDistanceByCarrier, 250), NAMED('aveDistanceByCarrier'));
 
 //**********************************************************************
 // Data Aggregation: TABLE and GROUP
@@ -152,5 +152,5 @@ captureWeekend := PROJECT(getFlights,       //Dataset to process
                                SELF := [] //Assings defult values to all undefined fields
                                ));
                                
-OUTPUT(captureWeekend, NAMED('captureWeekend'));
+OUTPUT(CHOOSEN(captureWeekend, 200), NAMED('captureWeekend'));
 
