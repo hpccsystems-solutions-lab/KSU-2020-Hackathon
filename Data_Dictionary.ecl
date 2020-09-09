@@ -1,11 +1,4 @@
-//Modules are not executable, please don't try to run them.
-//For to how to run a module please check view2019Flights.
-
-EXPORT flightRecMod := MODULE
-
-    //Creat flight record layout
-    EXPORT flightRec := RECORD
-        STRING3             Carrier;                                // Two or three letter code assigned by IATA or ICAO for the Carrier 
+        STRING3             Carrier;                                // Two or three letter code assigned by IATA or ICAO for the Carrier
         INTEGER2            FlightNumber;                           // Flight number
         STRING1             CodeShareFlag;                          // Dervice type indicator is used to classify carriers according to the type of air service they provide
         STRING3             CodeShareCarrier;                       // Alternate flight designator or ticket selling airline
@@ -60,7 +53,4 @@ EXPORT flightRecMod := MODULE
         INTEGER             PremiumEconomySeats;
         INTEGER             EconomyClassSeats;
         INTEGER             TotalSeats;
-        UNSIGNED            SectorizedId;                           // Unique record ID
-    END;
-
-END;
+        UNSIGNED            SectorizedId;           

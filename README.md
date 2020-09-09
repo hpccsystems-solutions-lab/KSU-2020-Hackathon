@@ -12,7 +12,7 @@ Each flight dataset contains a year of schedules from the month it's established
 
 Keep in mind that DiscontinueDate can go over a year, based on how long that flight should operate. For example, a scheduled flight can operate from (EffectiveDate) 06/01/2020 t0 07/23/2023 (DiscontinueDate).
 
-[Cirium](https://m.youtube.com/watch?sf236787699=1&v=_tR8VXlzWvo)our sister company has provided the data. For more information please visit
+[Cirium](https://m.youtube.com/watch?sf236787699=1&v=_tR8VXlzWvo) our sister company has provided the data. For more information please visit
 [Cirium](https://www.cirium.com/).
 
 ## Tools

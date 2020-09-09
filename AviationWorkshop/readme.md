@@ -9,7 +9,7 @@
 - Keep in mind that DiscontinueDate can go over a year, based on how long that flight should operate. For example, a scheduled flight can operate from (EffectiveDate) 06/01/2020 t0 07/23/2023 (DiscontinueDate).
 - Start code is update in this folder as a back up. If you are not in CloudIDE, please use [Aviation Workshop](https://ide.hpccsystems.com/workspaces/share/9feee85a-3ceb-4609-a8aa-99959a8a59bc)
 - Need quick reads on syntax, [Learn ECL](https://hpccsystems-solutions-lab.github.io/)
-- All codes from Learn ECL can be found in [Learn ECL CloudIDE](https://ide.hpccsystems.com/workspaces/share/291d17d9-e5cb-4fac-83c2-ac5997c28a31)
+- All codes from Learn ECL can be found in [CloudIDE](https://ide.hpccsystems.com/workspaces/share/291d17d9-e5cb-4fac-83c2-ac5997c28a31) LearnECL workspace.
 
   **References**
 
