@@ -17,18 +17,35 @@ Keep in mind that DiscontinueDate can go over a year, based on how long that fli
 
 ## Tools
 
-Data is already cleaned and loaded into our cluster, it's ready for you just to create a login and start working/coding in our [CloudIDE](https://ide.hpccsystems.com/)
-User guide is in Help tab of CloudIDE, also can be found in this repository.
+Start with creating a login in [CloudIDE](https://ide.hpccsystems.com/).
+User guide is available under Help in CloudIDE, also can be found in this repository.
 
-Your workshop is setup and ready for you to start [coding](https://ide.hpccsystems.com/workspaces/share/9feee85a-3ceb-4609-a8aa-99959a8a59bc).
-
-Need sample code to practice, please use [LearnECL](https://ide.hpccsystems.com/workspaces/share/291d17d9-e5cb-4fac-83c2-ac5997c28a31) workspace in CloudIDE.
+[Flights_Workshop](https://ide.hpccsystems.com/workspaces/share/9feee85a-3ceb-4609-a8aa-99959a8a59bc) has the initial code you need for this challenge.
 
 If you need more information on jobs you are running please use [ECL Watch Page](http://40.76.26.67:8010)
 
-Need a visualization tool to create charts and dashboards, [RealBI](http://realbi-qa.eastus.cloudapp.azure.com/) is ready to serve you. It's connected to the same cluster, so no pain of moving your data, just make sure your results are saved in files. You can use RealBI built-in ECL script to aggregate data for visualization on the fly. User guide is available in the application and in this repository.
+RealBI is the visualization tool for creating charts and dashboards. To start please email your name and email to Chris Human(Christopher.Human@lexisnexisrisk.com) to request login.
 
-For ease of use, most of materials can be found in this repository as well.
+RealBI is connected to the same cluster, so no pain of moving your data, just make sure your results are saved in files. You can use RealBI built-in ECL script to aggregate data for visualization on the fly. User guide is available in the application and in this repository.
+
+For a quick start on ECL syntax, please use [Learn ECL](https://hpccsystems-solutions-lab.github.io/). All sample code used in Learn ECL is available [LearnECL workshop](https://ide.hpccsystems.com/workspaces/share/291d17d9-e5cb-4fac-83c2-ac5997c28a31) in CloudIDE.
+
+## Additional Resources
+
+- More information on ECL:
+  https://cdn.hpccsystems.com/releases/CE-Candidate-7.10.16/docs/EN_US/ECLLanguageReference_EN_US-7.10.16-1.pdf
+
+- Standard Library:
+  https://cdn.hpccsystems.com/releases/CE-Candidate-7.10.16/docs/EN_US/ECLStandardLibraryReference_EN_US-7.10.16-1.pdf
+
+- Couple short videos on intro to ECl:
+  https://www.youtube.com/watch?time_continue=192&v=Lk78BCCtM-0
+
+- ECL cheat sheet:
+  https://github.com/hpccsystems-solutions-lab/KSU-2020-Hackathon/blob/master/ECL_Cheat_Sheet.pdf
+
+- Machine Learning:
+  https://hpccsystems.com/download/free-modules/machine-learning-library
 
 ## Challenge Expectation
 
