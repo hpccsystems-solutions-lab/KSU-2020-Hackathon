@@ -1,6 +1,6 @@
         STRING3             Carrier;                                // Two or three letter code assigned by IATA or ICAO for the Carrier
         INTEGER2            FlightNumber;                           // Flight number
-        STRING1             CodeShareFlag;                          // Dervice type indicator is used to classify carriers according to the type of air service they provide
+        STRING1             CodeShareFlag;                          // Service type indicator is used to classify carriers according to the type of air service they provide
         STRING3             CodeShareCarrier;                       // Alternate flight designator or ticket selling airline
         STRING1             ServiceType;                            // Classify carriers according to the type of air service they provide
         STRING8             EffectiveDate;                          // Effective date represents the date that the carrier has scheduled this flight service to begin; YYYYMMDD

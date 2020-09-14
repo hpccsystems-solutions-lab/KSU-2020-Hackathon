@@ -20,7 +20,8 @@ Keep in mind that DiscontinueDate can go over a year, based on how long that fli
 Start with creating a login in [CloudIDE](https://ide.hpccsystems.com/).
 User guide is available under Help in CloudIDE, also can be found in this repository.
 
-[Flights_Workshop](https://ide.hpccsystems.com/workspaces/share/9feee85a-3ceb-4609-a8aa-99959a8a59bc) has the initial code you need for this challenge.
+[Flights_Workshop](https://ide.hpccsystems.com/workspaces/share/9feee85a-3ceb-4609-a8aa-99959a8a59bc) has the initial
+code you need for this challenge.
 
 If you need more information on jobs you are running please use [ECL Watch Page](http://40.76.26.67:8010)
 
