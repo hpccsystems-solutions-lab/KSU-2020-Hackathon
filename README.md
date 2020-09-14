@@ -25,7 +25,7 @@ code you need for this challenge.
 
 If you need more information on jobs you are running please use [ECL Watch Page](http://40.76.26.67:8010)
 
-[RealBI](http://realbi-hackathon.eastus.cloudapp.azure.com) is the visualization tool for creating charts and dashboards. To start please email your name and email to Chris Human(Christopher.Human@lexisnexisrisk.com) to request login.
+[RealBI](http://realbi-hackathon.eastus.cloudapp.azure.com) is the visualization tool for creating charts and dashboards. To start please email your name, email and IP address to Chris Human(Christopher.Human@lexisnexisrisk.com) to request login.
 
 RealBI is connected to the same cluster, so no pain of moving your data, just make sure your results are saved in files. You can use RealBI built-in ECL script to aggregate data for visualization on the fly. User guide is available in the application and in this repository.
 
